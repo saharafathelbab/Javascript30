@@ -12,3 +12,7 @@ Following tutorial - used vanilla javascript and css transform to move the respe
 #### CSS Variables
 
 Following tutorial - used variables in CSS. Learned about calling all data with the attribute data-something into an object. Changed values based on mouse moving the ranges.
+
+#### Array Cardio Day 1
+
+Did a good portion on my own, didn't really need to follow tutorial that much, just for a few of the sorting algorithms. Used: Sort, Map, Filter, Reduce.

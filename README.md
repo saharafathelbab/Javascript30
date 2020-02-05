@@ -15,4 +15,8 @@ Following tutorial - used variables in CSS. Learned about calling all data with 
 
 #### Array Cardio Day 1
 
-Did a good portion on my own, didn't really need to follow tutorial that much, just for a few of the sorting algorithms. Used: Sort, Map, Filter, Reduce.
+Did a good portion on my own, didn't really need to follow tutorial that much, just for a few. Sorting Algorithms used: Sort, Map, Filter, Reduce.
+
+#### Flex Panel Gallery
+
+Following tutorial - used css classes, created within css for transform transition  and used JavaScript for toggling.

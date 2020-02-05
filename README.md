@@ -8,3 +8,7 @@ Following the tutorial - used vanilla javascript to add and and remove a class a
 #### JavaScript and CSS Clock
 
 Following tutorial - used vanilla javascript and css transform to move the respective hour, minute and second hand on a clock.
+
+#### CSS Variables
+
+Following tutorial - used variables in CSS. Learned about calling all data with the attribute data-something into an object. Changed values based on mouse moving the ranges.

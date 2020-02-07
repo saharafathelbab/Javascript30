@@ -20,3 +20,7 @@ Did a good portion on my own, didn't really need to follow tutorial that much, j
 #### Flex Panel Gallery
 
 Following tutorial - used css classes, created within css for transform transition  and used JavaScript for toggling.
+
+#### Type Ahead
+
+Following tutorial - fetched data from json file and used regex expresions to change the way certain data appeared to the user as well as addEvenListener event.

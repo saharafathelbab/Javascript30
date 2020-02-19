@@ -24,3 +24,8 @@ Following tutorial - used css classes, created within css for transform transiti
 #### Type Ahead
 
 Following tutorial - fetched data from json file and used regex expresions to change the way certain data appeared to the user as well as addEvenListener event.
+
+#### Array Cardio Day 2
+
+Following tutorial using .some, .every, .find, .findIndex.
+
